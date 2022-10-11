@@ -1,0 +1,15 @@
+
+
+div button {
+    width: auto;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+
+}
+
+img {
+    width: 250px;
+    border-radius: 25px;
+    text-align: center;
+}
